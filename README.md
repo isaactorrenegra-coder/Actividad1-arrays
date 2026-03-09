@@ -10,15 +10,13 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 2. Clona este repositorio o descarga el archivo fuente `.java`.
 3. Abre una terminal o línea de comandos y navega hasta la carpeta donde guardaste el archivo.
 4. Compila el archivo ejecutando el siguiente comando:
-   `javac Main.java` *(Cambia "Main.java" si nombraste tu archivo de otra manera)*
+   `javac src.Main.java` *(Cambia "src.Main.java" si nombraste tu archivo de otra manera)*
 5. Ejecuta el programa con el comando:
-   `java Main`
-6. Sigue las instrucciones en la consola para ingresar los 14 números solicitados.
+   `java src.Main`
+6. Sigue las instrucciones que apareceran en la consola.
 
-## Capturas de pantalla de la ejecución
-*(Instrucción para ti: Ejecuta tu programa, tómale una captura a la consola negra con los resultados, guarda la imagen en tu repositorio y reemplaza este texto con el código de abajo)*
-
-![Captura de ejecución del programa](ruta-de-tu-imagen.png)
+## Capturas de la ejecución
+![Captura de ejecución del programa](src/captura.png)
 
 ## Contribuyentes
-* [Tu Nombre Completo] - *Isaac Daniel Torrenegra Cantillo*
+*Isaac Daniel Torrenegra Cantillo*
